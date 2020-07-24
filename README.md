@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **edalmava/edalmava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hola a todos ¡Bienvenidos!
 - 🔭 Estoy actualmente trabajando en Dilups una app para gestionar pedidos 
