@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hola a todos ¡Bienvenidos!
-- 🔭 Estoy actualmente trabajando en [Dilups](https://dilups.com) una app para gestionar pedidos
+<!-- - 🔭 Estoy actualmente trabajando en [Dilups](https://dilups.com) una app para gestionar pedidos -->
 
 - 🌱 Estoy actualmente aprendiendo sobre WebRTC, React y modelos de IA(transformers)
 
