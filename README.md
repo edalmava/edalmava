@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ### Hola a todos ¡Bienvenidos!
 <!-- - 🔭 Estoy actualmente trabajando en [Dilups](https://dilups.com) una app para gestionar pedidos -->
 
-- 🌱 Estoy actualmente aprendiendo sobre Ruby, Erlang, WebRTC, React(Next.js) y modelos de IA(transformers)
+- 🌱 Estoy actualmente aprendiendo sobre Erlang, WebRTC, React(Next.js)
 
 `console.log('Hola Mundo...')`
